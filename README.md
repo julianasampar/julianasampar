@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @julianasampar
-- 👀 I’m interested in Data Analysis, Machine Learning with Python and eventual Front-End projects!
 - 📫 How to reach me: on juliana.s.sampar@gmail.com
 
 <!---
