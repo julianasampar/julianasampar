@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @julianasampar
+- Brazilian, 24 yo
+- Currently working as a Data Engineer on Stone Tech
 - 📫 How to reach me: on juliana.s.sampar@gmail.com
 
 <!---
